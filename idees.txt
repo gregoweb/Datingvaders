@@ -1,0 +1,27 @@
+﻿Combine 2 incompatible genre
+
+Datingvaders
+Dating game - Shmup
+
+5CDCFF Bleu 
+900BE8 Violet
+DF01FF Rose
+E8DBAC Magenta
+FFOC44 Rouge
+
+Couleur Joueur et aliens Bleu Violet Rose
+Choix couleur joueur
+
+La couleur défini le ?sexe?/la receptivitée/ sensibilité/caractère/genre/ du joueur ou de l'alien 
+
+
+
+
+RRGGBB color	BBGGRR
+5C0CFF Bleu	FFOC5C 
+900BE8 Violet	E80B90
+DF01FF Rose	FF01DF
+E80BAC Magenta	AC0BE8
+FFOC44 Rouge	44OCFF
+
+

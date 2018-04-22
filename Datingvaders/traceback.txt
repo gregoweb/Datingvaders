@@ -1,0 +1,22 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 111, in script
+    h "Meow..."
+Exception: Sayer 'h' is not defined.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 111, in script
+    h "Meow..."
+  File "C:\Jeux\renpy\renpy-6.99.14.3-sdk\renpy\ast.py", line 624, in execute
+    who = eval_who(self.who, self.who_fast)
+  File "C:\Jeux\renpy\renpy-6.99.14.3-sdk\renpy\ast.py", line 537, in eval_who
+    raise Exception("Sayer '%s' is not defined." % who.encode("utf-8"))
+Exception: Sayer 'h' is not defined.
+
+Windows-7-6.1.7601-SP1
+Ren'Py 6.99.14.3.3347
+Datingvaders 1.0
+Sun Apr 22 21:11:10 2018
